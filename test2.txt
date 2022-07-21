@@ -1,0 +1,9 @@
+bus
+cat
+hamid
+dog
+bus
+god
+senior
+developer
+wife
